@@ -21,7 +21,7 @@
 ## 🛠 Инструкция
 
 <div align="center">
-  <img src="[https://github.com/osifata/ARS/assets/103882155/e598fb16-a363-4841-9b82-cca870cff04e">
+  <img src="https://github.com/osifata/ARS/assets/103882155/e598fb16-a363-4841-9b82-cca870cff04e" alt="Робот АРС" width="200">
 </div>
 
 ## 👀 Посмотреть код
